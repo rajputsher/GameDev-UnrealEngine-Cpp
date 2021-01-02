@@ -39,6 +39,6 @@ I have used unreal engine version 4.26
 3. [Github unreal engine](https://github.com/EpicGames/UnrealEngine)
 4. [Slides:1_Introduction](https://docs.google.com/presentation/d/1z8Dpp0p6c7W-d07WhDPhWmIZF2cymH44yxwOKb7O48A/edit#slide=id.g5db699cafb_3_63)
 5. [Slides:2_TripleX_with_Cpp](https://docs.google.com/presentation/d/1yAanDP3hSJR5N8O1BQon31OCtRka_XL4UronCRV_wKo/edit#slide=id.g557508e47f_2_30)
-
+6. [Slides:3_BullsAndCows](https://docs.google.com/presentation/d/1j6udSYPrmie8uqsHa0jkV6PdoV66HwlfUedRRbdQnLM/edit#slide=id.g557508e47f_2_26)
 
 [Back To The Top](#read-me-template)
