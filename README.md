@@ -1,7 +1,5 @@
 # Unreal engine with C++
 
-![Project Image](project-image-url)
-
 > This repository is my for my projects and learning of Unreal engine with C++.
 
 ---
@@ -39,6 +37,8 @@ I have used unreal engine version 4.26
 1. [Epic Games Unreal Engine](https://www.unrealengine.com/en-US/)
 2. [GameDev](https://www.gamedev.tv/)
 3. [Github unreal engine](https://github.com/EpicGames/UnrealEngine)
-4. [Course Slides](https://docs.google.com/presentation/d/1z8Dpp0p6c7W-d07WhDPhWmIZF2cymH44yxwOKb7O48A/edit#slide=id.g5db699cafb_3_63)
+4. [Slides:1_Introduction](https://docs.google.com/presentation/d/1z8Dpp0p6c7W-d07WhDPhWmIZF2cymH44yxwOKb7O48A/edit#slide=id.g5db699cafb_3_63)
+5. [Slides:2_TripleX_with_Cpp](https://docs.google.com/presentation/d/1yAanDP3hSJR5N8O1BQon31OCtRka_XL4UronCRV_wKo/edit#slide=id.g557508e47f_2_30)
+
 
 [Back To The Top](#read-me-template)
